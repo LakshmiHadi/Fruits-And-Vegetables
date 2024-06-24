@@ -10,10 +10,16 @@
 
 /* some Fonts */
 :root {
-    --green-color: ;
-    --light-green-color: ;
+    --green-color: #3cb815;
+    --light-green-color: #c0eb7b;
     --orange-color: ;
-    --light-orange-color: ;
-    --text-color: ;
-    --bg-color: ;
+    --light-orange-color: #ff7e00;
+    --text-color: #1a2428;
+    --bg-color: #fff;
+}
+img{
+    width: 100%;
+}
+body{
+    color: var(--text-color);
 }
