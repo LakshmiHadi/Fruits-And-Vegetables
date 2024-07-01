@@ -103,3 +103,9 @@ navbar a:hover ,
     background-size: cover;
     background-position: center;
 }
+.container img{
+    width: 400px;
+    position: absolute;
+    bottom: -500px;
+    right: 200px;
+}
