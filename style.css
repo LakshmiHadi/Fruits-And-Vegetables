@@ -98,14 +98,40 @@ navbar a:hover ,
     min-height: 640px;
     display: flex;
     align-items: center;
-    background: url(assets/food1.jpg);
+    background: url();
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    overflow: hidden;
 }
 .container img{
     width: 400px;
     position: absolute;
     bottom: -500px;
     right: 200px;
+}
+.home-text{
+    padding: 0 150px;
+}
+.home-text span{
+    font-weight: 400;
+    text-transform: uppercase;
+    color: var(--green-color);
+}
+.home-text h1{
+    font-size: 2.4rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+.btn{
+    padding: 0.6rem 1rem;
+    background: var(--green-color);
+    color: var(--bg-color);
+    font-weight: 400;
+    border-radius: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    column-gap: 0.5rem;
+    max-width: 160px;
 }
