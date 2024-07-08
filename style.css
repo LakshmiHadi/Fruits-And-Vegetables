@@ -212,3 +212,17 @@ navbar a:hover ,
     font-weight: 400;
     margin-bottom: 1rem;
 }
+.categories-container .box .bx{
+    padding: 10px;
+    background: var(--green-color);
+    color: var(--bg-color);
+    border-radius: 5rem;
+    margin-top: 2rem;
+    position: absolute;
+    bottom: -8%;
+    display: none;
+}
+.categories-container .box .bx:hover{
+    background: var(--light-orange-color);
+    transition: 0.2s all linear;
+}
