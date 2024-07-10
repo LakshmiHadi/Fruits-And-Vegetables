@@ -35,3 +35,13 @@ Leaf and leafstalk vegetables: Such as lettuce, spinach, and silverbeet
 Bulb vegetables: Which usually grow just below the surface of the ground
 Head or flower vegetables: Such as cucumbers and eggplants
 Seed vegetables: Such as peas and beans 
+
+
+Some different types of package include:
+
+Sacks: flexible, made of plastic or jute. bags: small size sack. nets: sacks made of open mesh.
+Wooden crates.
+Carton or fibreboard boxes.
+Plastic crates.
+Pallet boxes and shipping containers.
+Baskets: made of woven strips of leaves, bamboo, plastic, etc.
