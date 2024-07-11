@@ -226,3 +226,22 @@ navbar a:hover ,
     background: var(--light-orange-color);
     transition: 0.2s all linear;
 }
+.categories-container .box:hover .bx{
+    display: block;
+    transition: 0.2s all linear;
+}
+.box1{
+    background: #fef4ea;
+}
+.box2{
+    background: #e9f4e3;
+}
+.box3{
+    background: #faeaea;
+}
+.box4{
+    background: #eeeef9;
+}
+.box5{
+    background: #f7f6d7;
+}
