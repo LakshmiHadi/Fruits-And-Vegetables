@@ -56,5 +56,12 @@ Most Australians will benefit from eating more fruit and vegetables as part of a
 
 Fruit and vegetables are best bought when they are in season. Otherwise try frozen or canned vegetables as they are just as nutritious and budget-friendly as well.
 
+Fruits and vegetables contain important vitamins, minerals and plant chemicals. They also contain fibre.
+There are many varieties of fruit and vegetables available and many ways to prepare, cook and serve them.
+A diet high in fruit and vegetables can help protect you against cancer, diabetes and heart disease.
+Eat 5 kinds of vegetable and 2 kinds of fruit every day for good health.
+Most Australians do not eat enough fruit and vegetables.
+When buying and serving fruit and vegetables, aim for variety to get the most nutrients and appeal.
+
 
 
