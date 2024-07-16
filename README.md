@@ -56,6 +56,5 @@ Most Australians will benefit from eating more fruit and vegetables as part of a
 
 Fruit and vegetables are best bought when they are in season. Otherwise try frozen or canned vegetables as they are just as nutritious and budget-friendly as well.
 
-You should eat at least 5 serves of vegetables and 2 serves of fruit each day. Choose different colours and varieties.
 
-If you are someone who doesn’t look forward to eating fruit or vegetables, start slowly with those you do like. Try serving, flavouring or cooking them in different ways. You can also disguise them in sauces, minced meals or curries.
+
