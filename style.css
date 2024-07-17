@@ -273,8 +273,25 @@ navbar a:hover ,
     font-size: 13px;
 }
 .products-conatiner .box h2{
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.products-conatiner .box .price{
     font-size: 1rem;
     font-weight: 600;
     margin-top: 0.5rem;
     color: var(--light-orange-color);
+}
+.products-conatiner .box .price span{
+    color: var(--text-color);
+}
+.products-conatiner .box .bx-cart-alt{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    padding: 10px;
+    background: var(--green-color);
+    color: var(--bg-color);
+    font-size: 20px;
+    border-radius: 0.5rem 0 0.5rem 0;
 }
