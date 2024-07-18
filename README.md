@@ -64,4 +64,12 @@ Most Australians do not eat enough fruit and vegetables.
 When buying and serving fruit and vegetables, aim for variety to get the most nutrients and appeal.
 
 
+Fruit and vegetables for good health
+
+
+Fruits and vegetables are low in fat, salt and sugar. They are a good source of dietary fibre, which can make you feel fuller for longer and prevent overconsumption of food. As part of a well-balanced, healthy diet and an active lifestyle, a high intake of fruit and vegetables can help you to:
+
+reduce obesity and maintain a healthy weight
+lower your cholesterol
+lower your blood pressure.
 
