@@ -285,7 +285,7 @@ navbar a:hover ,
 .products-conatiner .box .price span{
     color: var(--text-color);
 }
-.products-conatiner .box .bx-cart-alt{
+.products-conatiner .box .cart-alt{
     position: absolute;
     right: 0;
     bottom: 0;
@@ -294,4 +294,24 @@ navbar a:hover ,
     color: var(--bg-color);
     font-size: 20px;
     border-radius: 0.5rem 0 0.5rem 0;
+}
+.products-conatiner .box .cart-alt:hover{
+    background: var(--orange-color);
+    transition: 0.2s all linear;
+}
+.products-conatiner .box .heart{
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    font-size: 20px;
+    color: var(--light-orange-color);
+}
+.products-conatiner .box .discount{
+    position: absolute;
+    top: 1rem;
+    left: 0;
+    background: var(--light-orange-color);
+    color: var(--bg-color);
+    padding: 4px 18px;
+    clip-path: polygon(100% 0%, 75% 50%, 100% 100%, 0 100%, 0% 50%, 0 0);
 }
