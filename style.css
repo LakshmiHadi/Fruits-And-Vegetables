@@ -315,3 +315,12 @@ navbar a:hover ,
     padding: 4px 18px;
     clip-path: polygon(100% 0%, 75% 50%, 100% 100%, 0 100%, 0% 50%, 0 0);
 }
+.about{
+    max-width: 968px;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(21rem,auto));
+    align-items: center;
+    gap: 1.5rem;
+}
