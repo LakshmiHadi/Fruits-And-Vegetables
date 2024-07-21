@@ -324,3 +324,11 @@ navbar a:hover ,
     align-items: center;
     gap: 1.5rem;
 }
+.about-text span{
+    font-weight: 600;
+    text-transform: uppercase;
+    color: var(--green-color);
+}
+.about-text p{
+    margin: 0.5rem 0 1rem;
+}
