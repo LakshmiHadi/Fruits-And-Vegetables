@@ -469,3 +469,20 @@ navbar a:hover ,
     text-align: center;
     padding: 20px;
 }
+/* Making Responsive */
+@media (max-wdth: 1080px) {
+    header{
+        padding: 18px 60px;
+    }
+    .home-text{
+        padding: 0 100px;
+    }
+    .container img{
+        right: 100px;
+    }
+}
+@media (max-wdth: 991px){
+    header{
+        padding: 18px 4%;
+    }
+}
