@@ -528,4 +528,16 @@ navbar a:hover ,
     .navbar .active{
         top: 100%;
     }
+    .home-text h1{
+        font-size: 1.7rem;
+    }
+    .container img{
+        width: 390px;
+    }
+    .btn{
+        padding: 0.6rem 1.2rem;
+    }
+    .products-conatiner{
+        grid-template-columns: repeat(auto-fit,minmax(244px,auto));
+    }
 }
