@@ -22,6 +22,8 @@ Fruits and vegetables are essential components of a healthy diet, providing a ra
   - **Root**: Carrots, beets, radishes
   - **Bulb**: Onions, garlic
   - **Legumes**: Beans, peas, lentils
+ 
+
 
 ### Health Benefits
 Consuming a variety of fruits and vegetables can:
